@@ -1,0 +1,11 @@
+model\Review.class
+com\mycompany\prj301project\JakartaRestConfiguration.class
+dal\AccountDAO.class
+controller\ProductServlet.class
+model\Product.class
+controller\AuthServlet.class
+dal\ReviewDAO.class
+com\mycompany\prj301project\resources\JakartaEE10Resource.class
+dal\DBContext.class
+model\Account.class
+dal\ProductDAO.class
